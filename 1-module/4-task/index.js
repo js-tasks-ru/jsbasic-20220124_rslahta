@@ -3,4 +3,3 @@ function checkSpam(str) {
 
   return lowerStr.includes('1xbet') || lowerStr.includes('xxx');
 }
-тзь
